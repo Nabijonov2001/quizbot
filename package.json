@@ -1,0 +1,16 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "this is quiz bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Fazliddin Nabijonov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "mongoose": "^6.6.0",
+    "node-telegram-bot-api": "^0.59.0"
+  }
+}
